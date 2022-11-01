@@ -34,9 +34,9 @@ Below is the Orchestration Platform technical architecture split by main feature
 <img src="mpi-orc-WF-Retry-Delete-Registration.drawio.png" width="300">
 
 ## Workflow - DR Failover:
-<img src="docs/mpi-orc-WF-DR-Failover.drawio.png" width="500">
+<img src="mpi-orc-WF-DR-Failover.drawio.png" width="500">
 
 ## Event Management:
-<img src="docs/mpi-orc-Event-Mgmt.drawio.png" width="500">
+<img src="mpi-orc-Event-Mgmt.drawio.png" width="500">
 
 ## How to use:
