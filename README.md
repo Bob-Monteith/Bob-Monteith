@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 Below is the Orchestration Platform technical architecture split by main features.
 
 ## API Service:
+<img src="mpi-orc-API-service.drawio.png" width="100" height="100">
 ![Architecture diagram](mpi-orc-API-service.drawio.png?raw=true?width=6) 
 
 ## Workflow - Create Registration:
