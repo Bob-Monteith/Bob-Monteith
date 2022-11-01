@@ -22,21 +22,21 @@ Below is the Orchestration Platform technical architecture split by main feature
 ![Architecture diagram] <img src="mpi-orc-API-service.drawio.png" width="500">
 
 ## Workflow - Create Registration:
-![Architecture diagram](mpi-orc-WF-Create-Registration.drawio.png?raw=true)
+![Architecture diagram] <img src="mpi-orc-WF-Create-Registration.drawio.png" width="500">
 
 ## Workflow - Delete Registration:
-![Architecture diagram](mpi-orc-WF-Delete-Registration.drawio.png?raw=true)
+![Architecture diagram] <img src="mpi-orc-WF-Delete-Registration.drawio.png" width="500">
 
 ## Workflow - Retry Delete Registration:
-![Architecture diagram](mpi-orc-WF-Retry-Delete-Registration.drawio.png?raw=true)
+![Architecture diagram] <img src="mpi-orc-WF-Retry-Delete-Registration.drawio.png" width="500">
 
 ## Workflow - Retry Registration:
-![Architecture diagram](mpi-orc-WF-Retry-Create-Registration.drawio.png?raw=true)
+![Architecture diagram] <img src="mpi-orc-WF-Retry-Create-Registration.drawio.png" width="500">
 
 ## Workflow - DR Failover:
-![Architecture diagram](docs/mpi-orc-WF-DR-Failover.drawio.png?raw=true)
+![Architecture diagram] <img src="docs/mpi-orc-WF-DR-Failover.drawio.png" width="500">
 
 ## Event Management:
-![Architecture diagram](docs/mpi-orc-Event-Mgmt.drawio.png?raw=true)
+![Architecture diagram] <img src="docs/mpi-orc-Event-Mgmt.drawio.png" width="500">
 
 ## How to use:
