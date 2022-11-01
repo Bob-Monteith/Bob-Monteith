@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 Below is the Orchestration Platform technical architecture split by main features.
 
 ## API Service:
-![Architecture diagram](docs/mpi-orc-API-service.drawio.png?raw=true)
+![Architecture diagram](mpi-orc-API-service.drawio.png?raw=true)
 
 ## Workflow - Create Registration:
-![Architecture diagram](docs/mpi-orc-WF-Create-Registration.drawio.png?raw=true)
+![Architecture diagram](mpi-orc-WF-Create-Registration.drawio.png?raw=true)
 
 ## Workflow - Delete Registration:
-![Architecture diagram](docs/mpi-orc-WF-Delete-Registration.drawio.png?raw=true)
+![Architecture diagram](mpi-orc-WF-Delete-Registration.drawio.png?raw=true)
 
 ## Workflow - Retry Delete Registration:
-![Architecture diagram](docs/mpi-orc-WF-Retry-Delete-Registration.drawio.png?raw=true)
+![Architecture diagram](mpi-orc-WF-Retry-Delete-Registration.drawio.png?raw=true)
 
 ## Workflow - Retry Registration:
-![Architecture diagram](docs/mpi-orc-WF-Retry-Create-Registration.drawio.png?raw=true)
+![Architecture diagram](mpi-orc-WF-Retry-Create-Registration.drawio.png?raw=true)
 
 ## Workflow - DR Failover:
 ![Architecture diagram](docs/mpi-orc-WF-DR-Failover.drawio.png?raw=true)
