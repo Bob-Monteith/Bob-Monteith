@@ -25,7 +25,7 @@ Below is the Orchestration Platform technical architecture split by main feature
 ![Architecture diagram] <img src="mpi-orc-WF-Create-Registration.drawio.png" width="500">
 
 ## Workflow - Delete Registration:
-![Architecture diagram] <img src="mpi-orc-WF-Delete-Registration.drawio.png" width="500">
+![Architecture diagram] <img src="mpi-orc-WF-Delete-Registration.drawio.png" width="300">
 
 ## Workflow - Retry Delete Registration:
 ![Architecture diagram] <img src="mpi-orc-WF-Retry-Delete-Registration.drawio.png" width="500">
